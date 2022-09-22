@@ -39,9 +39,14 @@ var count = .2+.3;
 // console.log(count);
 
 var sum = 100 + 200 + '400';
-console.log(sum);
+// console.log(sum);
 
 // console.log(typeof sum);
 
 var largeNumber = 100.4343543622;
-console.log(largeNumber.toFixed(4));
+// console.log(largeNumber.toFixed(4));
+
+let foo = 42; // foo is now a number
+foo = "bar"; // foo is now a string
+foo = true; // foo is now a boolean
+console.log(typeof foo);
