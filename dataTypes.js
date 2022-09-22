@@ -27,21 +27,24 @@ bangla = bangla += 10;
 var modulu = english % bangla;
 // console.log(modulu);
 var value = parseInt(aquariumPrice);
-console.log(value);
+// console.log(value);
 
 var school = "newTown";
 var schoolVari = "Girls";
-console.log(school + ' ' + schoolVari);
+// console.log(school + ' ' + schoolVari);
 
 var firstCount = 0.2;
 var secondCount = 0.3;
 var finalCount = firstCount + secondCount;
-console.log(finalCount);
+// console.log(finalCount);
 
 var count = .2+.3;
-console.log(count);
+// console.log(count);
 
 var sum = 100 + 200 + '400';
 console.log(sum);
 
-console.log(typeof sum);
+// console.log(typeof sum);
+
+var largeNumber = 100.4343543622;
+console.log(largeNumber.toFixed(4));
