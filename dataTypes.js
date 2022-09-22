@@ -27,9 +27,6 @@ bangla = bangla += 10;
 var modulu = english % bangla;
 // console.log(modulu);
 var value = parseInt(aquariumPrice);
-// console.log(value);
-
-var school = "newTown";
 var schoolVari = "Girls";
 // console.log(school + ' ' + schoolVari);
 
