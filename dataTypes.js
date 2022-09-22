@@ -40,3 +40,6 @@ console.log(finalCount);
 
 var count = .2+.3;
 console.log(count);
+
+var sum = 100 + 200 + '400';
+console.log(sum);
