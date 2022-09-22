@@ -15,7 +15,7 @@ var totalSetupPrice = aquariumPrice + standPrice ;
 var aquariumPrice = aquariumPrice + '1';
 // console.log(typeof aquariumPrice);
 
-var bangla = 50;
+var bangla = 90;
 var english = 90;
 var total = bangla + english;
 
